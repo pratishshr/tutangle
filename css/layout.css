@@ -1,0 +1,89 @@
+/*col-3-right layout*/
+
+.wrapper{
+	background: #ffffff;
+}
+
+
+.header-top{
+	background: #7dd9e8;
+	padding: 20px 0 15px;
+}
+
+.header-top-center{
+	max-width: 58.625em;
+	margin: 0 auto;
+}
+
+.logo{
+	float:left;
+}
+
+.search{
+	float:left;
+	padding: 20px 21px 10px;
+	width: 36.78038379530917%;
+}
+
+.user-options{
+	float:right;
+}
+
+.header-bot{
+	background: #f5f5f5;
+}
+
+.header-bot-center{
+	max-width: 58.625em;
+	margin: 0 auto;
+}
+
+.menu{
+	float: left;
+	width: 68.01705756929638%;
+}
+
+.notification{
+	float: right;
+	line-height: 40px;
+	width: 31.98294243070362%;
+}
+
+.col3-right-center{
+	max-width: 58.625em;
+	margin:0 auto;
+	margin-top: 26px;
+	margin-bottom: 26px;
+	background: url("../images/center-bg.png") repeat-y;
+	background-size: 100%;
+}
+
+.main{
+	float: left;
+	width: 78.67803837953092%;
+}
+
+.col-l{
+	float: left;
+	width: 26.28726287262873%;
+}
+
+.main-content{
+	float: right;
+	background: #ffffff;
+	width: 70.18970189701897%;
+}
+
+.col-right{
+	float: right;
+	width: 18.76332622601279%;
+}
+
+.footer-wrp{
+	background: #727272;
+}
+
+.footer-wrp-center{
+	margin:0 auto;
+	max-width: 58.625em;
+}

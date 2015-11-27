@@ -1,0 +1,66 @@
+/*style for profile menu*/
+
+.profile-name a{
+	float: right;
+	padding-top: 8px;
+	padding-bottom: 12px;
+	color: #333230;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.profile-menu ul{
+	clear:both;
+	list-style: none;
+}
+
+.profile-menu ul li{
+	float:left;
+}
+
+.border{ 
+	padding: 0 6px;
+	margin:0 6px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	
+}
+
+.profile-menu ul li a{
+	float: right;
+	text-decoration: none;
+	font-size: 11px;
+	color: #333230;
+}
+
+/*style for header-bot menu*/
+
+.menu ul{
+	list-style: none;
+}
+
+.menu ul li{
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	line-height: 40px;
+	color: #3c3c3c;
+	display:block;
+	padding:0 8px;
+	font-size: 14px;
+}
+
+.menu ul li:hover a{
+	background: #2fc1da;
+	color: #fff;
+}
+
+.menu .active{
+	background: #2fc1da;
+}
+
+.menu .active a{
+	color: #fff;
+}

@@ -1,0 +1,8 @@
+/*media*/
+
+@media(max-width: 1024px){
+	.center-wrapper{
+		margin: 0 auto;
+		min-width: 938px;
+	}
+}
